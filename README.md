@@ -12,8 +12,8 @@ I'm Stepan and after 15 years of working in media, I decided to go for IT! I'm i
 
 **Engeto**
 
-SQL: Food prices data analysis (SQL, Excel)
-Python: Shared bikes in Edinburgh data analysis (Jupyter notebook, Python tools, some SQL)
+Food prices data analysis (SQL, Excel. In Czech only.)
+Bikesharing in Edinburgh data analysis (Jupyter notebook, Python tools, some SQL. In Czech only.)
 
 **42 Prague:**
 
