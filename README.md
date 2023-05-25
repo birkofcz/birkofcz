@@ -29,8 +29,9 @@ level 2: **push_swap** - sorting data on a stack
 level 2: **fract'ol** - rendering fractals using the school's graphic library minilibx  
 
 ---
-**Tools:**
+#### Tools:
 ---
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 > 
 
 
