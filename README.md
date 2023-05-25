@@ -5,7 +5,7 @@ I'm Stepan and after 15 years of working in media, I decided to go for IT! I'm i
 #### What am I working on now? 
 I made it through the Piscine and as of January 2023, I became a student at **[42 Prague](https://42prague.com).**
 
-**42 Prague projects:**  
+<u>**42 Prague projects:**</u>
 level 0: **libft** - my first library (C)  
 level 1: **ft_printf** - recoding the printf function (C)  
 level 1: **get_next_line** - reading a line from the file descriptor (C)  
