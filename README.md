@@ -21,12 +21,13 @@ Bikesharing in Edinburgh data analysis (Jupyter notebook, Python tools, some SQL
 **42 Prague:**  
 
 [![sbenes's 42 stats](https://badge42.vercel.app/api/v2/clhxhut3v002508l6ma7ao1xq/stats?cursusId=21&coalitionId=314)](https://github.com/JaeSeoKim/badge42)  
-level 0: **[libft](https://github.com/birkofcz/42__libft)** - my first library   
-level 1: **ft_printf** - recoding the printf function  
-level 1: **get_next_line** - reading a line from the file descriptor  
-level 2: **minitalk** - small communication program using Unix signals  
-level 2: **push_swap** - sorting data on a stack  
-level 2: **fract'ol** - rendering fractals using the school's graphic library minilibx  
+level 0: **[libft](https://github.com/birkofcz/42__libft)** - library of general purpose functions
+level 1: **[ft_printf](https://github.com/birkofcz/42__ft_printf)** - recoding the printf function  
+level 1: **[get_next_line](https://github.com/birkofcz/42__get_next_line)** - reading a line from the file descriptor  
+level 2: **[minitalk](https://github.com/birkofcz/42__minitalk)** - small communication program using Unix signals  
+level 2: **[push_swap](https://github.com/birkofcz/42__push_swap)** - sorting data on a stack  
+level 2: **[fract'ol](https://github.com/birkofcz/42__fractol)** - rendering fractals using the school's graphic library minilibx  
+level 3: **[Philosophers](https://github.com/birkofcz/42__Philosophers)** - threads and mutexes, multithreading. WORK IN PROGRESS.
 
 ---
 #### Tools:
