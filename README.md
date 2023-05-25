@@ -5,7 +5,7 @@ I'm Stepan and after 15 years of working in media, I decided to go for IT! I'm i
 #### Progress report: 
 - (Aug 2022) succesfully graduated from **[Engeto](https://engeto.cz)** Data Academy with two final projects (SQL, Python).  
 - (Jan 2023) Made it through the Piscine and became a student at **[42 Prague](https://42prague.com).**  
-- (May 2023) Accepted for CS106 live 6 week course at Stanford University - basic Python and Computer scienc to reinforce my learning curve!
+- (May 2023) Accepted for CS106 6 week course at Stanford Uni - basic Python and Computer science to reinforce learning curve!
 
 **42 Prague projects:**
 
