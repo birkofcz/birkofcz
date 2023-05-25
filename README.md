@@ -1,8 +1,8 @@
-### > printf("Hello world! 👋");
+## > printf("Hello world! 👋");
 
 I'm Stepan and after 15 years of working in media, I decided to go for IT! I'm into data and programming, but never say no to learning something new - and I a do, everyday, as learning is really an infinite loop. Moving on a wheelchair, I have a first-hand experience of how technology can make your life better. You can folow my progress here 💪.
 
-## What am I working on now? 
+#### What am I working on now? 
 I made it throught the Piscine at the end of 2022 and as of January 2023, I became a student of 42 Prague. 
 
 
