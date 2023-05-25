@@ -28,6 +28,9 @@ level 2: **minitalk** - small communication program using Unix signals
 level 2: **push_swap** - sorting data on a stack  
 level 2: **fract'ol** - rendering fractals using the school's graphic library minilibx  
 
+---
+**Tools:**
+---
 > 
 
 
