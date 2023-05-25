@@ -31,7 +31,7 @@ level 2: **fract'ol** - rendering fractals using the school's graphic library mi
 ---
 #### Tools:
 ---
-[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,github )](https://skillicons.dev)
 > 
 
 
