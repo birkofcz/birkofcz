@@ -1,12 +1,12 @@
 ## > printf("Hello world! 👋");
 
-I'm Stepan and after 15 years of working in media, I decided to go for IT! I'm into **data** and **coding**, but never say no to learning something new - and I a do, everyday, as learning is really an infinite loop. Moving on a wheelchair, I have intensive experience of how technology can make your life better. You can folow my adventure here 💪.
+I'm Stepan and after 15 years of working in media, I decided to go for IT! I'm into **data** and **coding**, but never say no to learning something new - and I a do, everyday, as learning is really an infinite loop. Moving on a wheelchair, I have intensive experience of how technology can make your life better. You can follow my adventure here 💪.
 
 #### Progress report: 
-- (May 2022) Journey started!
-- (Aug 2022) Succesfully graduated from **[Engeto](https://engeto.cz)** Data Academy with two final projects (SQL, Python).  
-- (Jan 2023) Made it through the Piscine and became a student at **[42 Prague](https://42prague.com).**  
-- (May 2023) Accepted for **[Code in place](https://codeinplace.stanford.edu)**, 6 week program based on CS106 course at Stanford Uni. Reinforce the learning curve!
+- (5/22) Journey started!
+- (8/22) Succesfully graduated from **[Engeto](https://engeto.cz)** Data Academy with two final projects (SQL, Python).  
+- (1/23) Made it through the Piscine and became a student at **[42 Prague](https://42prague.com).**  
+- (5/23) Accepted for **[Code in place](https://codeinplace.stanford.edu)**, 6 week program based on CS106 course at Stanford Uni. Reinforce the learning curve!
 
 **42 Prague projects:**
 
