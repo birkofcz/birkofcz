@@ -8,7 +8,14 @@ I'm Stepan and after 15 years of working in media, I decided to go for IT! I'm i
 - (1/23) Made it through the Piscine and became a student at **[42 Prague](https://42prague.com).**  
 - (5/23) Accepted for **[Code in place](https://codeinplace.stanford.edu)**, 6 week program based on CS106 course at Stanford Uni. Reinforce the learning curve!
 
-**42 Prague projects:**
+#### Projects:
+
+**Engeto**
+
+SQL: Food prices data analysis (SQL, Excel)
+Python: Shared bikes in Edinburgh data analysis (Jupyter notebook, Python tools, some SQL)
+
+**42 Prague:**
 
 level 0: **[libft](https://github.com/birkofcz/42__libft)** - my first library (C)  
 level 1: **ft_printf** - recoding the printf function (C)  
