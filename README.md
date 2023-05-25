@@ -5,19 +5,18 @@ I'm Stepan and after 15 years of working in media, I decided to go for IT! I'm i
 #### What am I working on now? 
 I made it through the Piscine and as of January 2023, I became a student at **[42 Prague](https://42prague.com).**
 
-Completed projects:
+42 Prague projects:
 
-level 0: **libft** - my first library
+level 0: **libft** - my first library (C)
+level 1: **ft_printf** - recoding the printf function (C)
 
-level 1: **ft_printf** - recoding the printf function
+level 1: **get_next_line** - reading a line from the file descriptor (C)
 
-level 1: **get_next_line** - reading a line from the file descriptor
+level 2: **minitalk** - small communication program using Unix signals (C)
 
-level 2: **minitalk** - small communication program using Unix signals
+level 2: **push_swap** - sorting data on a stack (C)
 
-level 2: **push_swap** - sorting data on a stack
-
-level 2: **fract'ol** - rendering fractals using the school's graphic library minilibx
+level 2: **fract'ol** - rendering fractals using the school's graphic library minilibx (C)
 
 > 
 
