@@ -6,7 +6,7 @@ I'm Stepan and after 15 years of working in media, I decided to go for IT! I'm i
 I made it through the Piscine and as of January 2023, I became a student at **[42 Prague](https://42prague.com).**
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clhxhut3v002508l6ma7ao1xq/stats?cursusId=21&coalitionId=314" alt="sbenes's 42 stats" /></a>
 
-You can see some of the projects here:
+Completed projects:
 
 level 0: **libft** - my first library
 
