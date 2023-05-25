@@ -8,7 +8,7 @@ I made it through the Piscine and as of January 2023, I became a student at **[4
 
 You can see some of the projects here:
 
-level 0: **libft** - my first library of functions.
+level 0: **libft** - my first library of functions
 level 1: **ft_printf** - recoding the printf function.
 
 level 1: **get_next_line** - reading a line from the file descriptor
