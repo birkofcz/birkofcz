@@ -15,8 +15,8 @@ I'm Stepan and after 15 years of working in media, I decided to go for IT! I'm i
 Food prices data analysis (SQL, Excel. In Czech only.)  
 Bikesharing in Edinburgh data analysis (Jupyter notebook, Python tools, some SQL. In Czech only.)
 
-**42 Prague:**
-[![sbenes's 42 stats](https://badge42.vercel.app/api/v2/clhxhut3v002508l6ma7ao1xq/stats?cursusId=21&coalitionId=314)](https://github.com/JaeSeoKim/badge42)
+**42 Prague:**  
+[![sbenes's 42 stats](https://badge42.vercel.app/api/v2/clhxhut3v002508l6ma7ao1xq/stats?cursusId=21&coalitionId=314)](https://github.com/JaeSeoKim/badge42)  
 level 0: **[libft](https://github.com/birkofcz/42__libft)** - my first library (C)  
 level 1: **ft_printf** - recoding the printf function (C)  
 level 1: **get_next_line** - reading a line from the file descriptor (C)  
