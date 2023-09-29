@@ -7,8 +7,7 @@ I'm Stepan and after 15 years of working in media, I decided to go for IT! I but
 ---
 - (5/22) Journey started!
 - (8/22) Succesfully graduated from **[Engeto](https://engeto.cz)** Data Academy with two final projects (SQL, Python).  
-- (1/23) Made it through the Piscine and became a student at **[42 Prague](https://42prague.com).**  
-- (5/23) Accepted for **[Code in place](https://codeinplace.stanford.edu)**, 6 week program based on CS106 course at Stanford Uni. Reinforce the learning curve!
+- (1/23) Made it through the Piscine and became a student at **[42 Prague](https://42prague.com).** 
 
 ---
 #### Projects:
