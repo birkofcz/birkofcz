@@ -20,7 +20,8 @@ Bikesharing in Edinburgh data analysis (Jupyter notebook, Python tools, some SQL
 **42 Prague:**  
 
 [![sbenes's 42 stats](https://badge42.vercel.app/api/v2/clhxhut3v002508l6ma7ao1xq/stats?cursusId=21&coalitionId=314)](https://github.com/JaeSeoKim/badge42)  
-level 0: **[libft](https://github.com/birkofcz/42__libft)** - library of general purpose functions 
+level 0: **[libft](https://github.com/birkofcz/42__libft)** - library of general purpose functions
+
 level 1: **[ft_printf](https://github.com/birkofcz/42__ft_printf)** - recoding the printf function  
 level 1: **[get_next_line](https://github.com/birkofcz/42__get_next_line)** - reading a line from the file descriptor  
 level 2: **[minitalk](https://github.com/birkofcz/42__minitalk)** - small communication program using Unix signals  
